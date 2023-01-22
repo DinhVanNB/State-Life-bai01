@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/State-Life-bai01/static/css/main.1bc376c2.css",
+    "main.js": "/State-Life-bai01/static/js/main.89237903.js",
+    "index.html": "/State-Life-bai01/index.html",
+    "main.1bc376c2.css.map": "/State-Life-bai01/static/css/main.1bc376c2.css.map",
+    "main.89237903.js.map": "/State-Life-bai01/static/js/main.89237903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc376c2.css",
+    "static/js/main.89237903.js"
+  ]
+}
