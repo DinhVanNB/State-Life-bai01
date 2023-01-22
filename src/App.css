@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.divHeader{
+  background-color: green;
+  color:white;
+  line-height: 100px;
+}
 
 .App-logo {
   height: 40vmin;
